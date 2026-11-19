@@ -1,10 +1,4 @@
-# analise-dados-socioambientais-emissoes
-Modelagem e cruzamento de bases complexas do SEEG, INPE/MapBiomas e IBGE para extração de insights quantitativos sobre emissões de gases de efeito estufa e indicadores ambientais.
----
 
-### Repositório 2: `analise-dados-socioambientais-emissoes`
-
-```markdown
 # 🌍 Análise de Dados Socioambientais e Emissões de GEE (Bases Públicas)
 
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
